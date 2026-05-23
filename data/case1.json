@@ -1,0 +1,27 @@
+[{
+"customer_id": 1234,
+"service_cd": "A",
+"cust_type": "Inactive",
+"address": "India",
+"city": "Pune",
+"state": "MH",
+"contact": "1111111111"
+},
+{
+"customer_id": 1235,
+"service_cd": "A",
+"cust_type": "Inactive",
+"address": "India",
+"city": "Pune",
+"state": "MH",
+"contact": "2222222222"
+},
+{
+"customer_id": 1238,
+"service_cd": "C",
+"cust_type": "Active",
+"address": "India",
+"city": "Pune",
+"state": "MH",
+"contact": "5555555555"
+}]

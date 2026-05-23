@@ -1,0 +1,36 @@
+[{
+"customer_id": 1234,
+"service_cd": "A",
+"cust_type": "Active",
+"address": "India",
+"city": "Pune",
+"state": "MH",
+"contact": "1111111111"
+},
+{
+"customer_id": 1235,
+"service_cd": "A",
+"cust_type": "Active",
+"address": "India",
+"city": "Pune",
+"state": "MH",
+"contact": "2222222222"
+},
+{
+"customer_id": 1236,
+"service_cd": "B",
+"cust_type": "Active",
+"address": "India",
+"city": "Pune",
+"state": "MH",
+"contact": "3333333333"
+},
+{
+"customer_id": 1237,
+"service_cd": "C",
+"cust_type": "Active",
+"address": "India",
+"city": "Pune",
+"state": "MH",
+"contact": "4444444444"
+}]

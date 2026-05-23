@@ -1,0 +1,46 @@
+[{
+"customer_id": 1238,
+"service_cd": "A",
+"cust_type": "Active",
+"address": "India",
+"city": "Pune",
+"state": "MH",
+"contact": "5555555555"
+},
+{
+"customer_id": 1239,
+"service_cd": "A",
+"cust_type": "Active",
+"address": "India",
+"city": "Pune",
+"state": "MH",
+"contact": "6666666666"
+},
+{
+"customer_id": 1240,
+"service_cd": "A",
+"cust_type": "Inactive",
+"address": "India",
+"city": "Pune",
+"state": "MH",
+"contact": "7777777777"
+},
+{
+"customer_id": 1241,
+"service_cd": "A",
+"cust_type": "Inactive",
+"address": "India",
+"city": "Mumbai",
+"state": "MH",
+"contact": "7777777777"
+},
+{
+"customer_id": 1242,
+"service_cd": "A",
+"cust_type": "Inactive",
+"address": "India",
+"city": "Chennai",
+"state": "TN",
+"contact": "7777777777"
+}
+]
