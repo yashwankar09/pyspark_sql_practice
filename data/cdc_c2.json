@@ -1,0 +1,40 @@
+[
+  {
+    "Invoice_id": "692-92-5582",
+    "Branch": "B",
+    "City": "Mandalay",
+    "Customer_type": "Normal",
+    "Gender": "Female",
+    "Product_line": "Food and beverages",
+    "Unit_price": 54.84,
+    "Quantity": 3,
+    "Tax_percentage": 8.226,
+    "Total": 172.746,
+    "Payment": "Credit card",
+    "cogs": 164.52,
+    "gross_margin_percentage": 4.761904762,
+    "gross_income": 8.226,
+    "Rating": 5.9,
+    "purchase_time": "2019-02-20T13:27:00.000+00:00",
+    "op_type": "U"
+  },
+  {
+    "Invoice_id": "355-53-5943",
+    "Branch": "A",
+    "City": "Mumbai",
+    "Customer_type": "Member",
+    "Gender": "Female",
+    "Product_line": "Electronic accessories",
+    "Unit_price": 68.84,
+    "Quantity": 6,
+    "Tax_percentage": 20.652,
+    "Total": 433.692,
+    "Payment": "Ewallet",
+    "cogs": 413.04,
+    "gross_margin_percentage": 4.761904762,
+    "gross_income": 20.652,
+    "Rating": 5.8,
+    "purchase_time": "2019-02-25T14:36:00.000+00:00",
+    "op_type": "U"
+  }
+]

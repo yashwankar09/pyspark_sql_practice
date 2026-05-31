@@ -1,0 +1,54 @@
+[
+  {
+    "Invoice_id": "631-41-3108",
+    "op_type": "U",
+    "Branch": "C"
+  },
+  {
+    "Invoice_id": "123-19-1176",
+    "op_type": "U",
+    "Branch": "C"
+  },
+  {
+    "Invoice_id": "888-11-1001",
+    "op_type": "I",
+    "Branch": "A",
+    "City": "Yangon",
+    "Customer_type": "Member",
+    "Gender": "Female",
+    "Product_line": "Health and beauty",
+    "Unit_price": 45.50,
+    "Quantity": 5,
+    "Tax_percentage": 11.375,
+    "Total": 238.875,
+    "Payment": "Ewallet",
+    "cogs": 227.50,
+    "gross_margin_percentage": 4.761904762,
+    "gross_income": 11.375,
+    "Rating": 8.5,
+    "purchase_time": "2019-03-05T10:15:00.000+00:00"
+  },
+  {
+    "Invoice_id": "888-11-1002",
+    "op_type": "I",
+    "Branch": "B",
+    "City": "Mandalay",
+    "Customer_type": "Normal",
+    "Gender": "Male",
+    "Product_line": "Food and beverages",
+    "Unit_price": 65.25,
+    "Quantity": 4,
+    "Tax_percentage": 13.05,
+    "Total": 274.05,
+    "Payment": "Cash",
+    "cogs": 261.00,
+    "gross_margin_percentage": 4.761904762,
+    "gross_income": 13.05,
+    "Rating": 7.8,
+    "purchase_time": "2019-03-05T11:30:00.000+00:00"
+  },
+  {
+    "Invoice_id": "315-22-5665",
+    "op_type": "D"
+  }
+]
